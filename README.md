@@ -6,9 +6,9 @@ Atuo com foco em qualidade, performance e escalabilidade dos processos, utilizan
 ---
 
 ## 🛠️ Habilidades Técnicas
-🔹 Python para dados: Pandas, PySpark
+🔹 Python para dados: Pandas, Numpy, PySpark, MatplotLib, Seaborn;
 
-🔹 SQL: PostgreSQL
+🔹 SQL: PostgreSQL, SQL-Server, MySQL;
 
 🔹 Orquestração de pipelines: Apache Airflow
 
